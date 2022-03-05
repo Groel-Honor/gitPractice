@@ -7,3 +7,9 @@ add add add
 
 Hi my name is groel
 how are you?
+
+stash and pop
+practice again
+
+hahahaha
+this is practice for merge
